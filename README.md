@@ -26,6 +26,8 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
   After preparing our data for the model, we will try different models and parameters to find the best one for classification of our label 
   
   - Naive Bayes
+  - LISTM
+  - Transformer
   
   
   ### We see thatNaive Bayes Classifier  has the highest accuracy .
